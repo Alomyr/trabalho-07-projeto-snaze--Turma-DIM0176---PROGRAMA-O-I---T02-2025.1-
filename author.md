@@ -3,9 +3,8 @@
 Preencha os dados abaixo para identificar a autoria do trabalho.
 
 - Nome: 
-        Jamilly Emilly da Silva Campelo
-
-        Matheus Vinicius Silva Freire de Castro 
+  Jamilly Emilly da Silva Campelo
+  Matheus Vinicius Silva Freire de Castro 
 
 
 - Email: 
